@@ -35,6 +35,6 @@ Apesar de estar na reta final da minha primeira graduação, sei que minha jorna
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Snake animation" />
 
 ###
