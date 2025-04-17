@@ -5,7 +5,7 @@ Desenvolvimento de Software.
 
 Sou fascinado por novas descobertas, e desta maneira descobri minha paixão por tecnologia em 2021, alguns meses antes de ingressar no curso superior.
 
-Apesar de estar na reta final da minha primeira graduação, sei que minha jornada de aprendizagem está apenas começando, por isso estou em busca da minha primeira oportunidade profissional nessa área, para que assim eu possa por em prática o que venho estudando e aprender ainda mais.
+Finalizei a minha primeira graduação, sei que minha jornada de aprendizagem está apenas começando, por isso estou em busca da minha primeira oportunidade profissional nessa área, para que assim eu possa por em prática o que venho estudando e aprender ainda mais.
 
 ###
 
