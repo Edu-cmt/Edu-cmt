@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋! Me chamo Eduardo Mota.</h2>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em
+Formado em Análise e Desenvolvimento de Sistemas, com interesse em
 Desenvolvimento de Software.
 
 Sou fascinado por novas descobertas, e desta maneira descobri minha paixão por tecnologia em 2021, alguns meses antes de ingressar no curso superior.
