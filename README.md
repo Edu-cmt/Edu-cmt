@@ -22,6 +22,8 @@ Finalizei a minha primeira graduação, sei que minha jornada de aprendizagem es
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height="30" alt="SB logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"  height="30"/>
+  <img width="12" />
 </div>
 
 ###
